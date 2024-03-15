@@ -1,0 +1,1 @@
+# Kinematic-analysis-of-4-Bar-mechanism-using-Newton-Raphson-method
